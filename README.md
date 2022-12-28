@@ -44,6 +44,6 @@ python train.py -m mfccnn/resnet -g <GPUID> # all test files
 
 此仓库只包含所有我自己独立完成的部分，因为我实在受不了那个管理混乱的原项目了
 
-永远不要尝试教别人 git 项目管理
+永远不要尝试教别人 git 项目管理，我破防了
 
 ![bef0e4258b4208be5149c9b5f884a12b9](https://user-images.githubusercontent.com/57553691/209761390-59cde8d1-dc88-44e9-b0cd-e408a25c9fd8.jpg)
